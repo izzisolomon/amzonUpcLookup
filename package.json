@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "amazon-product-api": "^0.4.4",
     "react": "^16.6.0",
+    "react-csv-reader": "^1.1.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.0.5"
+    "react-scripts": "2.0.5",
+    "react-table": "^6.8.6"
   },
   "scripts": {
     "start": "react-scripts start",
